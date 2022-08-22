@@ -16,7 +16,7 @@ public class CongNgheMang extends MonHoc{
 
     public CongNgheMang(String lopHocPhan, double diem) {
         super(lopHocPhan, diem);
-        super.soTinChi = 3;
+        super.soTinChi = 4;
         super.tenMonHoc = "Cong Nghe Mang May Tinh";
     }
     
