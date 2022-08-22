@@ -11,7 +11,7 @@ package com.mycompany.phanmemquanlysinhvien.model;
 public class CongNgheMang extends MonHoc{
     public CongNgheMang() {
         super.soTinChi = 3;
-        super.tenMonHoc = "Cong Nghe Mang May Tinh";
+        super.tenMonHoc = "Cong Nghe Mang May Tinh 12344";
     }
 
     public CongNgheMang(String lopHocPhan, double diem) {
